@@ -101,12 +101,11 @@ const IndexPage = () => {
                 </div>
             </div>
             <div className="profile-description">
-                <div className="text">วิปัสสนาภาวนา พิจารณาขันธ์ 5 อินทรีย์ 6
-                </div>
-                <div className="text">
-                  <div className="type-wrap">
-                      <span style={{ whiteSpace: 'pre' }} ref={el} />
-                  </div>
+                <div className="text">วิปัสสนาภาวนา พิจารณาขันธ์ 5 อินทรีย์ 6</div>
+            </div>
+            <div className="profile-description">
+                <div className="type-wrap">
+                    <span style={{ whiteSpace: 'pre' }} ref={el} />
                 </div>
             </div>
             
