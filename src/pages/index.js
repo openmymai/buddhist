@@ -100,9 +100,9 @@ const IndexPage = () => {
                     </span>
                 </div>
             </div>
-            <div className="profile-description">
-                <div className="text">วิปัสสนาภาวนา พิจารณาขันธ์ 5 อินทรีย์ 6</div>
-            </div>
+            
+            <h1><div className="text">วิปัสสนาภาวนา พิจารณาขันธ์ 5 อินทรีย์ 6</div></h1>
+
             <div className="profile-description">
                 <div className="type-wrap">
                     <span style={{ whiteSpace: 'pre' }} ref={el} />
