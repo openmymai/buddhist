@@ -103,7 +103,7 @@ const IndexPage = () => {
             
             <h1><div className="text">วิปัสสนาภาวนา พิจารณาขันธ์ 5 อินทรีย์ 6</div></h1>
             <h1>
-                <div className="type-wrap">
+                <div className="type">
                     <span style={{ whiteSpace: 'pre' }} ref={el} />
                 </div>
             </h1>
