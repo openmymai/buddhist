@@ -23,7 +23,6 @@ const IndexPage = () => {
       typeSpeed: 50,
       loop: true,
     };
-
     typed.current = new Typed(el.current, options)
 
     return () => {
