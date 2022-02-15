@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/buddhist",
   plugins: [{
     resolve: 'gatsby-plugin-sass',
   }],
