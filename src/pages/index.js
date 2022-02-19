@@ -118,7 +118,7 @@ const IndexPage = () => {
     <div className="overflow-wrap">
     <section id="home" className="flex section--dark">
         <div className="bg-video">
-            <video className="bg-video__content" autoPlay={true} loop muted>
+        <video className="bg-video__content" autoPlay={true} loop muted playsInline>
                 <source src={bgvdo} type="video/mp4" />
             </video>
         </div>
